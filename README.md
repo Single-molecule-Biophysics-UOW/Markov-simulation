@@ -17,9 +17,9 @@ The actual calculation is implemented in simulations.py. This script creates csv
 
 ## Dependencies
 
--scipy.linalg
--numpy
--scipy.stats.rv_continuous
--scipy.stats.gamma
--scipy.optimize
--matplotlib.pyplot
+- scipy.linalg
+- numpy
+- scipy.stats.rv_continuous
+- scipy.stats.gamma
+- scipy.optimize
+- matplotlib.pyplot
